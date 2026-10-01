@@ -6,8 +6,8 @@
     ═══════════════════════════════════════════════════════════════════════════
 ]]
 
-local GITHUB_USER = "theultimate587"
-local GITHUB_REPO = "flow-rivals"
+local GITHUB_USER = "cylixstudios"
+local GITHUB_REPO = "rivals"
 local GITHUB_BRANCH = "main"
 
 local BASE_URL = string.format("https://raw.githubusercontent.com/%s/%s/%s", GITHUB_USER, GITHUB_REPO, GITHUB_BRANCH)
